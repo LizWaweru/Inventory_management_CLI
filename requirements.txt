@@ -1,0 +1,2 @@
+sqlalchemy==2.0.34 # For ORM and database interaction
+alembic==1.13.2 # For database migrations
